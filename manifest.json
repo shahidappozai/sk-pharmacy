@@ -1,0 +1,24 @@
+{
+  "name": "SK Pharmacy Zhob",
+  "short_name": "SK Pharmacy",
+  "description": "Premium Pharmacy in Zhob - Quality Medicines, Baby Care, Cosmetics & Perfumes",
+  "start_url": "https://www.skpharmacy.pk/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Uh29LFWiikhLVTm6oior5tt4eG9w3ltjdfTGSpwhYp6QFjXgGWEWboAMjs9bIRoMzz4U-4EPuQIoDBSL68UEsKp8k_ZWYmTF4RwjgdmAW5SyCLMn9809-hrCH4LoHmZJFDBWLrza-HcsZWec6QVxWTi9MVR-SwtJdTpGY-OKESaLMnST4JXkuAxpgw/s502/1000157046.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Uh29LFWiikhLVTm6oior5tt4eG9w3ltjdfTGSpwhYp6QFjXgGWEWboAMjs9bIRoMzz4U-4EPuQIoDBSL68UEsKp8k_ZWYmTF4RwjgdmAW5SyCLMn9809-hrCH4LoHmZJFDBWLrza-HcsZWec6QVxWTi9MVR-SwtJdTpGY-OKESaLMnST4JXkuAxpgw/s502/1000157046.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
